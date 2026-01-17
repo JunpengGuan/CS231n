@@ -1,6 +1,6 @@
 # My AI & Robotics Learning Journey
 
-This repository contains my assignments for **CS231n **.
+This repository contains my assignments for **CS231n**.
 
 ## 🚀 Goals
 - [ ] Complete Assignment1
